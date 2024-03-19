@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SalonBottle2", "SalonBottle2\SalonBottle2.pyproj", "{2DFCA026-286E-4E3A-8719-680DF9D801BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DFCA026-286E-4E3A-8719-680DF9D801BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFCA026-286E-4E3A-8719-680DF9D801BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFCA026-286E-4E3A-8719-680DF9D801BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFCA026-286E-4E3A-8719-680DF9D801BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62B08CA2-8281-4473-9CE1-93CC98F29C7D}
+	EndGlobalSection
+EndGlobal
